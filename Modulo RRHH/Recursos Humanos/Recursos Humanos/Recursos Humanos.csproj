@@ -31,6 +31,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CapaDeDiseno">
+      <HintPath>..\..\..\..\..\NAV2K19-master\DLL\Navegador\CapaDeDiseno\bin\Debug\CapaDeDiseno.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaDiseno, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Seguridad\CapaDiseno\bin\Debug\CapaDiseno.dll</HintPath>
+    </Reference>
     <Reference Include="CapaLogica_RRHH">
       <HintPath>..\CapaLogica_RRHH\bin\Debug\CapaLogica_RRHH.dll</HintPath>
     </Reference>
@@ -59,6 +66,12 @@
     <Compile Include="Frm_nominas.Designer.cs">
       <DependentUpon>Frm_nominas.cs</DependentUpon>
     </Compile>
+    <Compile Include="Mantenimientos\Frm_mantConceptos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantConceptos.Designer.cs">
+      <DependentUpon>Frm_mantConceptos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Mantenimientos\Frm_mantDepartamento.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,11 +84,23 @@
     <Compile Include="Mantenimientos\Frm_mantEmpleado.Designer.cs">
       <DependentUpon>Frm_mantEmpleado.cs</DependentUpon>
     </Compile>
+    <Compile Include="Mantenimientos\Frm_mantPruebas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantPruebas.Designer.cs">
+      <DependentUpon>Frm_mantPruebas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Mantenimientos\Frm_mantPuesto.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Mantenimientos\Frm_mantPuesto.Designer.cs">
       <DependentUpon>Frm_mantPuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantRolespago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantRolespago.Designer.cs">
+      <DependentUpon>Frm_mantRolespago.cs</DependentUpon>
     </Compile>
     <Compile Include="MDI_RRHH.cs">
       <SubType>Form</SubType>
@@ -92,14 +117,23 @@
     <EmbeddedResource Include="Frm_nominas.resx">
       <DependentUpon>Frm_nominas.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_mantConceptos.resx">
+      <DependentUpon>Frm_mantConceptos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Mantenimientos\Frm_mantDepartamento.resx">
       <DependentUpon>Frm_mantDepartamento.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Mantenimientos\Frm_mantEmpleado.resx">
       <DependentUpon>Frm_mantEmpleado.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_mantPruebas.resx">
+      <DependentUpon>Frm_mantPruebas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Mantenimientos\Frm_mantPuesto.resx">
       <DependentUpon>Frm_mantPuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_mantRolespago.resx">
+      <DependentUpon>Frm_mantRolespago.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MDI_RRHH.resx">
       <DependentUpon>MDI_RRHH.cs</DependentUpon>

@@ -68,6 +68,9 @@
             this.empleadosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.puestosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.departamentosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.conceptosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.rolesDePagosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.areasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.capacitacionesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.windowsMenu = new System.Windows.Forms.ToolStripMenuItem();
             this.newWindowToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -88,9 +91,7 @@
             this.statusStrip = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolTip = new System.Windows.Forms.ToolTip(this.components);
-            this.conceptosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.rolesDePagosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.areasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pruebasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip.SuspendLayout();
             this.toolStrip.SuspendLayout();
             this.statusStrip.SuspendLayout();
@@ -400,7 +401,8 @@
             this.departamentosToolStripMenuItem,
             this.conceptosToolStripMenuItem,
             this.rolesDePagosToolStripMenuItem,
-            this.areasToolStripMenuItem});
+            this.areasToolStripMenuItem,
+            this.pruebasToolStripMenuItem});
             this.mantenimientosToolStripMenuItem.Name = "mantenimientosToolStripMenuItem";
             this.mantenimientosToolStripMenuItem.Size = new System.Drawing.Size(130, 24);
             this.mantenimientosToolStripMenuItem.Text = "Mantenimientos";
@@ -425,6 +427,26 @@
             this.departamentosToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.departamentosToolStripMenuItem.Text = "Departamentos";
             this.departamentosToolStripMenuItem.Click += new System.EventHandler(this.DepartamentosToolStripMenuItem_Click);
+            // 
+            // conceptosToolStripMenuItem
+            // 
+            this.conceptosToolStripMenuItem.Name = "conceptosToolStripMenuItem";
+            this.conceptosToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.conceptosToolStripMenuItem.Text = "Conceptos";
+            this.conceptosToolStripMenuItem.Click += new System.EventHandler(this.ConceptosToolStripMenuItem_Click);
+            // 
+            // rolesDePagosToolStripMenuItem
+            // 
+            this.rolesDePagosToolStripMenuItem.Name = "rolesDePagosToolStripMenuItem";
+            this.rolesDePagosToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.rolesDePagosToolStripMenuItem.Text = "Roles de pagos";
+            this.rolesDePagosToolStripMenuItem.Click += new System.EventHandler(this.RolesDePagosToolStripMenuItem_Click);
+            // 
+            // areasToolStripMenuItem
+            // 
+            this.areasToolStripMenuItem.Name = "areasToolStripMenuItem";
+            this.areasToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.areasToolStripMenuItem.Text = "Areas";
             // 
             // capacitacionesToolStripMenuItem
             // 
@@ -590,23 +612,12 @@
             this.toolStripStatusLabel.Size = new System.Drawing.Size(54, 20);
             this.toolStripStatusLabel.Text = "Estado";
             // 
-            // conceptosToolStripMenuItem
+            // pruebasToolStripMenuItem
             // 
-            this.conceptosToolStripMenuItem.Name = "conceptosToolStripMenuItem";
-            this.conceptosToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.conceptosToolStripMenuItem.Text = "Conceptos";
-            // 
-            // rolesDePagosToolStripMenuItem
-            // 
-            this.rolesDePagosToolStripMenuItem.Name = "rolesDePagosToolStripMenuItem";
-            this.rolesDePagosToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.rolesDePagosToolStripMenuItem.Text = "Roles de pagos";
-            // 
-            // areasToolStripMenuItem
-            // 
-            this.areasToolStripMenuItem.Name = "areasToolStripMenuItem";
-            this.areasToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.areasToolStripMenuItem.Text = "Areas";
+            this.pruebasToolStripMenuItem.Name = "pruebasToolStripMenuItem";
+            this.pruebasToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.pruebasToolStripMenuItem.Text = "Pruebas";
+            this.pruebasToolStripMenuItem.Click += new System.EventHandler(this.PruebasToolStripMenuItem_Click);
             // 
             // MDI_RRHH
             // 
@@ -623,6 +634,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MDI_RRHH";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Load += new System.EventHandler(this.MDI_RRHH_Load);
             this.menuStrip.ResumeLayout(false);
             this.menuStrip.PerformLayout();
             this.toolStrip.ResumeLayout(false);
@@ -697,6 +709,7 @@
         private System.Windows.Forms.ToolStripMenuItem conceptosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem rolesDePagosToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem areasToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem pruebasToolStripMenuItem;
     }
 }
 

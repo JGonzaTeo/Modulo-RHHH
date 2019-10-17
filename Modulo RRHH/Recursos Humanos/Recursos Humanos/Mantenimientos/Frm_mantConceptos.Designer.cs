@@ -1,6 +1,6 @@
 ﻿namespace Recursos_Humanos.Mantenimientos
 {
-    partial class Frm_mantDepartamento
+    partial class Frm_mantConceptos
     {
         /// <summary>
         /// Required designer variable.
@@ -34,22 +34,21 @@
             // navegador1
             // 
             this.navegador1.BackColor = System.Drawing.Color.White;
-            this.navegador1.Location = new System.Drawing.Point(0, 0);
+            this.navegador1.Location = new System.Drawing.Point(1, 1);
             this.navegador1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.navegador1.Name = "navegador1";
             this.navegador1.Size = new System.Drawing.Size(1571, 809);
             this.navegador1.TabIndex = 0;
             // 
-            // Frm_mantDepartamento
+            // Frm_mantConceptos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1560, 816);
+            this.ClientSize = new System.Drawing.Size(1579, 824);
             this.Controls.Add(this.navegador1);
-            this.Name = "Frm_mantDepartamento";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Frm_mantDepartamento";
-            this.Load += new System.EventHandler(this.Frm_mantDepartamento_Load);
+            this.Name = "Frm_mantConceptos";
+            this.Text = "Frm_mantConceptos";
+            this.Load += new System.EventHandler(this.Frm_mantConceptos_Load);
             this.ResumeLayout(false);
 
         }

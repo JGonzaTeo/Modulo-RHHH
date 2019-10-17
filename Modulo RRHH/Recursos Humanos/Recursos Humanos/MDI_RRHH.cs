@@ -1,4 +1,5 @@
-﻿using Recursos_Humanos.Mantenimientos;
+﻿using CapaDiseno;
+using Recursos_Humanos.Mantenimientos;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -217,6 +218,81 @@ namespace Recursos_Humanos
             else
             {
                 departamento.WindowState = System.Windows.Forms.FormWindowState.Normal;
+            }
+        }
+
+        private void MDI_RRHH_Load(object sender, EventArgs e)
+        {
+            frm_login login = new frm_login();
+            login.ShowDialog();
+        }
+        bool ventanaRolespago = false;
+        Frm_mantRolespago rolespago = new Frm_mantRolespago();
+        private void RolesDePagosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form frmC = Application.OpenForms.Cast<Form>().FirstOrDefault(x => x is Frm_mantRolespago);
+            if (ventanaRolespago == false || frmC == null)
+            {
+                if (frmC == null)
+                {
+                    rolespago = new Frm_mantRolespago();
+                }
+
+                rolespago.MdiParent = this;
+                rolespago.Show();
+                Application.DoEvents();
+                ventanaRolespago = true;
+            }
+            else
+            {
+                rolespago.WindowState = System.Windows.Forms.FormWindowState.Normal;
+            }
+        }
+
+
+        bool ventanaConcepto = false;
+        Frm_mantConceptos Concepto = new Frm_mantConceptos();
+        private void ConceptosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form frmC = Application.OpenForms.Cast<Form>().FirstOrDefault(x => x is Frm_mantConceptos);
+            if (ventanaConcepto == false || frmC == null)
+            {
+                if (frmC == null)
+                {
+                    Concepto = new Frm_mantConceptos();
+                }
+
+                Concepto.MdiParent = this;
+                Concepto.Show();
+                Application.DoEvents();
+                ventanaConcepto = true;
+            }
+            else
+            {
+                Concepto.WindowState = System.Windows.Forms.FormWindowState.Normal;
+            }
+        }
+
+        bool ventanaPruebas = false;
+        Frm_mantPruebas pruebas = new Frm_mantPruebas();
+        private void PruebasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form frmC = Application.OpenForms.Cast<Form>().FirstOrDefault(x => x is Frm_mantPruebas);
+            if (ventanaPruebas == false || frmC == null)
+            {
+                if (frmC == null)
+                {
+                    pruebas = new Frm_mantPruebas();
+                }
+
+                pruebas.MdiParent = this;
+                pruebas.Show();
+                Application.DoEvents();
+                ventanaPruebas = true;
+            }
+            else
+            {
+                pruebas.WindowState = System.Windows.Forms.FormWindowState.Normal;
             }
         }
     }

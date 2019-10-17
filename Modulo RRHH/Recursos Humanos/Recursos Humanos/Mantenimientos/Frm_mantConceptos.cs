@@ -10,27 +10,26 @@ using System.Windows.Forms;
 
 namespace Recursos_Humanos.Mantenimientos
 {
-    public partial class Frm_mantDepartamento : Form
+    public partial class Frm_mantConceptos : Form
     {
 
         ToolTip ayuda_tp = new ToolTip();
-        public Frm_mantDepartamento()
+        public Frm_mantConceptos()
         {
             InitializeComponent();
 
-            string[] alias = { "Cod Departamento", "Nombre Departamento", "No. Departamento", "Direccion", "Telefono", "Cod Area","Estado" };
+            string[] alias = { "Codigo Concepto:", "Nombre:", "Naturaleza:", "Valor:","Estado" };
             navegador1.asignarAlias(alias);
             navegador1.asignarSalida(this);
             navegador1.asignarColorFondo(Color.LightBlue);
             navegador1.asignarColorFuente(Color.BlueViolet);
             navegador1.asignarAyuda("1");
-            navegador1.asignarTabla("tbl_departamentos");
-            navegador1.asignarComboConTabla("tbl_areas", "KidArea");
-            navegador1.asignarNombreForm("Departamentos");
+            navegador1.asignarTabla("tbl_conceptos");
+            navegador1.asignarNombreForm("Conceptos");
             ayuda_tp.IsBalloon = true;
         }
 
-        private void Frm_mantDepartamento_Load(object sender, EventArgs e)
+        private void Frm_mantConceptos_Load(object sender, EventArgs e)
         {
             //        frm_login login = new frm_login();
             // login.ShowDialog();
