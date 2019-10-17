@@ -295,5 +295,28 @@ namespace Recursos_Humanos
                 pruebas.WindowState = System.Windows.Forms.FormWindowState.Normal;
             }
         }
+
+        bool VentanaArea = false;
+        Frm_mantAreas Area = new Frm_mantAreas();
+        private void AreasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form frmC = Application.OpenForms.Cast<Form>().FirstOrDefault(x => x is Frm_mantAreas);
+            if (VentanaArea == false || frmC == null)
+            {
+                if (frmC == null)
+                {
+                    Area = new Frm_mantAreas();
+                }
+
+                Area.MdiParent = this;
+                Area.Show();
+                Application.DoEvents();
+                VentanaArea = true;
+            }
+            else
+            {
+                Area.WindowState = System.Windows.Forms.FormWindowState.Normal;
+            }
+        }
     }
 }

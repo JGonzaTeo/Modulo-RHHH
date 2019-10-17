@@ -71,6 +71,7 @@
             this.conceptosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.rolesDePagosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.areasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pruebasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.capacitacionesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.windowsMenu = new System.Windows.Forms.ToolStripMenuItem();
             this.newWindowToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -91,7 +92,6 @@
             this.statusStrip = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolTip = new System.Windows.Forms.ToolTip(this.components);
-            this.pruebasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip.SuspendLayout();
             this.toolStrip.SuspendLayout();
             this.statusStrip.SuspendLayout();
@@ -447,6 +447,14 @@
             this.areasToolStripMenuItem.Name = "areasToolStripMenuItem";
             this.areasToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.areasToolStripMenuItem.Text = "Areas";
+            this.areasToolStripMenuItem.Click += new System.EventHandler(this.AreasToolStripMenuItem_Click);
+            // 
+            // pruebasToolStripMenuItem
+            // 
+            this.pruebasToolStripMenuItem.Name = "pruebasToolStripMenuItem";
+            this.pruebasToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.pruebasToolStripMenuItem.Text = "Pruebas";
+            this.pruebasToolStripMenuItem.Click += new System.EventHandler(this.PruebasToolStripMenuItem_Click);
             // 
             // capacitacionesToolStripMenuItem
             // 
@@ -611,13 +619,6 @@
             this.toolStripStatusLabel.Name = "toolStripStatusLabel";
             this.toolStripStatusLabel.Size = new System.Drawing.Size(54, 20);
             this.toolStripStatusLabel.Text = "Estado";
-            // 
-            // pruebasToolStripMenuItem
-            // 
-            this.pruebasToolStripMenuItem.Name = "pruebasToolStripMenuItem";
-            this.pruebasToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.pruebasToolStripMenuItem.Text = "Pruebas";
-            this.pruebasToolStripMenuItem.Click += new System.EventHandler(this.PruebasToolStripMenuItem_Click);
             // 
             // MDI_RRHH
             // 

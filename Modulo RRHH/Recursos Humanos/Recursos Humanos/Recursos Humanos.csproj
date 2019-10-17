@@ -66,6 +66,12 @@
     <Compile Include="Frm_nominas.Designer.cs">
       <DependentUpon>Frm_nominas.cs</DependentUpon>
     </Compile>
+    <Compile Include="Mantenimientos\Frm_mantAreas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantAreas.Designer.cs">
+      <DependentUpon>Frm_mantAreas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Mantenimientos\Frm_mantConceptos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -116,6 +122,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_nominas.resx">
       <DependentUpon>Frm_nominas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_mantAreas.resx">
+      <DependentUpon>Frm_mantAreas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Mantenimientos\Frm_mantConceptos.resx">
       <DependentUpon>Frm_mantConceptos.cs</DependentUpon>
