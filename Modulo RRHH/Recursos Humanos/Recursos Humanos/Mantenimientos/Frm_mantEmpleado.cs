@@ -30,7 +30,7 @@ namespace Recursos_Humanos.Mantenimientos
             navegador1.asignarTabla("tbl_empleado");
             navegador1.asignarComboConTabla("tbl_puestos", "KidPuesto");
             navegador1.asignarComboConTabla("tbl_departamentos", "KidDepartamento");
-            navegador1.asignarNombreForm("Empleado");
+            navegador1.asignarNombreForm("Formulario de Empleado");
             ayuda_tp.IsBalloon = true;
         }
 

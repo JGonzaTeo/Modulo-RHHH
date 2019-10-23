@@ -26,7 +26,7 @@ namespace Recursos_Humanos.Mantenimientos
             navegador1.asignarAyuda("1");
             navegador1.asignarTabla("tbl_departamentos");
             navegador1.asignarComboConTabla("tbl_areas", "KidArea");
-            navegador1.asignarNombreForm("Departamentos");
+            navegador1.asignarNombreForm("Formulaio de Departamentos");
             ayuda_tp.IsBalloon = true;
         }
 

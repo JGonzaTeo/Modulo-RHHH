@@ -24,7 +24,7 @@ namespace Recursos_Humanos.Mantenimientos
             navegador1.asignarColorFuente(Color.BlueViolet);
             navegador1.asignarAyuda("1");
             navegador1.asignarTabla("tbl_areas");
-            navegador1.asignarNombreForm("Areas");
+            navegador1.asignarNombreForm("Formulario de Areas");
             ayuda_tp.IsBalloon = true;
         }
 
