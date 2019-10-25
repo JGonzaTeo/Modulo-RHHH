@@ -1,0 +1,9 @@
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\CapaLogica_RRHH\bin\Debug\CapaLogica_RRHH.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\CapaLogica_RRHH\bin\Debug\CapaLogica_RRHH.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\CapaLogica_RRHH\obj\Debug\CapaLogica_RRHH.csprojAssemblyReference.cache
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\CapaLogica_RRHH\obj\Debug\CapaLogica_RRHH.csproj.CoreCompileInputs.cache
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\CapaLogica_RRHH\obj\Debug\CapaLogica_RRHH.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\CapaLogica_RRHH\obj\Debug\CapaLogica_RRHH.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\CapaLogica_RRHH\bin\Debug\CapaDatos_RRHH.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\CapaLogica_RRHH\obj\Debug\CapaLogica_RRHH.csproj.CopyComplete
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\CapaLogica_RRHH\bin\Debug\CapaDatos_RRHH.pdb

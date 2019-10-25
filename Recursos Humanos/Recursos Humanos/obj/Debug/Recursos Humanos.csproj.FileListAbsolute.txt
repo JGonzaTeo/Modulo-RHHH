@@ -1,0 +1,62 @@
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\Recursos Humanos.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\Recursos Humanos.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDeDiseno.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDiseno.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaLogica_RRHH.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDeLogica.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDatos.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaLogica.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDeDatos.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDeDiseno.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDiseno.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaLogica_RRHH.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDeLogica.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaLogica.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDeDatos.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos Humanos.csprojAssemblyReference.cache
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Frm_capacitaciones.resources
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Frm_nominas.resources
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Mantenimientos.Frm_mantAreas.resources
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Mantenimientos.Frm_mantConceptos.resources
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Mantenimientos.Frm_mantDepartamento.resources
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Mantenimientos.Frm_mantEmpleado.resources
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Mantenimientos.Frm_mantPruebas.resources
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Mantenimientos.Frm_mantPuesto.resources
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Mantenimientos.Frm_mantRolespago.resources
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.MDI_RRHH.resources
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos Humanos.csproj.GenerateResource.cache
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos Humanos.csproj.CoreCompileInputs.cache
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos Humanos.csproj.CopyComplete
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos Humanos.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos Humanos.pdb
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\Recursos Humanos.dll
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\Recursos Humanos.pdb
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDeDiseno.dll
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDiseno.dll
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaLogica_RRHH.dll
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDeLogica.dll
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDatos.dll
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaLogica.dll
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDeDatos.dll
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDeDiseno.pdb
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDiseno.pdb
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaLogica_RRHH.pdb
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDeLogica.pdb
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaLogica.pdb
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\bin\Debug\CapaDeDatos.pdb
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos Humanos.csprojAssemblyReference.cache
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Frm_capacitaciones.resources
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Frm_nominas.resources
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Mantenimientos.Frm_mantAreas.resources
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Mantenimientos.Frm_mantConceptos.resources
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Mantenimientos.Frm_mantDepartamento.resources
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Mantenimientos.Frm_mantEmpleado.resources
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Mantenimientos.Frm_mantPruebas.resources
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Mantenimientos.Frm_mantPuesto.resources
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.Mantenimientos.Frm_mantRolespago.resources
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos_Humanos.MDI_RRHH.resources
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos Humanos.csproj.GenerateResource.cache
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos Humanos.csproj.CoreCompileInputs.cache
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos Humanos.csproj.CopyComplete
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos Humanos.dll
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\Recursos Humanos\obj\Debug\Recursos Humanos.pdb

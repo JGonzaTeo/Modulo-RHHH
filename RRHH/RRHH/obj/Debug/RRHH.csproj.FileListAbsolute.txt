@@ -1,0 +1,48 @@
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\RRHH.exe.config
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\RRHH.exe
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\RRHH.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\Recursos Humanos.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDiseno.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDeDiseno.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaLogica.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDatos.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDeLogica.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDeDatos.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\Recursos Humanos.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDiseno.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDeDiseno.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaLogica.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDeLogica.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDeDatos.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\obj\Debug\RRHH.csprojAssemblyReference.cache
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\obj\Debug\RRHH.Form1.resources
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\obj\Debug\RRHH.Properties.Resources.resources
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\obj\Debug\RRHH.csproj.GenerateResource.cache
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\obj\Debug\RRHH.csproj.CoreCompileInputs.cache
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\obj\Debug\RRHH.csproj.CopyComplete
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\obj\Debug\RRHH.exe
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\obj\Debug\RRHH.pdb
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\RRHH.exe.config
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\RRHH.exe
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\RRHH.pdb
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\Recursos Humanos.dll
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDiseno.dll
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDeDiseno.dll
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaLogica.dll
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDatos.dll
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDeLogica.dll
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDeDatos.dll
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\Recursos Humanos.pdb
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDiseno.pdb
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDeDiseno.pdb
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaLogica.pdb
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDeLogica.pdb
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\bin\Debug\CapaDeDatos.pdb
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\obj\Debug\RRHH.csprojAssemblyReference.cache
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\obj\Debug\RRHH.Form1.resources
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\obj\Debug\RRHH.Properties.Resources.resources
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\obj\Debug\RRHH.csproj.GenerateResource.cache
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\obj\Debug\RRHH.csproj.CoreCompileInputs.cache
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\obj\Debug\RRHH.csproj.CopyComplete
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\obj\Debug\RRHH.exe
+C:\Users\prueb\Desktop\Navegador Actual\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\RRHH\RRHH\obj\Debug\RRHH.pdb

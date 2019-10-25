@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D7E97CB8-EAAD-4F1E-B985-322ABFAF7038}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Recursos_Humanos</RootNamespace>
+    <AssemblyName>Recursos Humanos</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CapaDeDiseno">
+      <HintPath>..\..\..\NAV2K19-master\DLL\Navegador\CapaDeDiseno\bin\Debug\CapaDeDiseno.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaDiseno">
+      <HintPath>..\..\..\Seguridad\CapaDiseno\bin\Debug\CapaDiseno.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaLogica_RRHH">
+      <HintPath>..\CapaLogica_RRHH\bin\Debug\CapaLogica_RRHH.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Frm_capacitaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_capacitaciones.Designer.cs">
+      <DependentUpon>Frm_capacitaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_nominas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_nominas.Designer.cs">
+      <DependentUpon>Frm_nominas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantAreas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantAreas.Designer.cs">
+      <DependentUpon>Frm_mantAreas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantConceptos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantConceptos.Designer.cs">
+      <DependentUpon>Frm_mantConceptos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantDepartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantDepartamento.Designer.cs">
+      <DependentUpon>Frm_mantDepartamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantEmpleado.Designer.cs">
+      <DependentUpon>Frm_mantEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantPruebas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantPruebas.Designer.cs">
+      <DependentUpon>Frm_mantPruebas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantPuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantPuesto.Designer.cs">
+      <DependentUpon>Frm_mantPuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantRolespago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimientos\Frm_mantRolespago.Designer.cs">
+      <DependentUpon>Frm_mantRolespago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDI_RRHH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDI_RRHH.Designer.cs">
+      <DependentUpon>MDI_RRHH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Frm_capacitaciones.resx">
+      <DependentUpon>Frm_capacitaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_nominas.resx">
+      <DependentUpon>Frm_nominas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_mantAreas.resx">
+      <DependentUpon>Frm_mantAreas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_mantConceptos.resx">
+      <DependentUpon>Frm_mantConceptos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_mantDepartamento.resx">
+      <DependentUpon>Frm_mantDepartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_mantEmpleado.resx">
+      <DependentUpon>Frm_mantEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_mantPruebas.resx">
+      <DependentUpon>Frm_mantPruebas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_mantPuesto.resx">
+      <DependentUpon>Frm_mantPuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_mantRolespago.resx">
+      <DependentUpon>Frm_mantRolespago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDI_RRHH.resx">
+      <DependentUpon>MDI_RRHH.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,6 @@
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\CapaDatos_RRHH\bin\Debug\CapaDatos_RRHH.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\CapaDatos_RRHH\bin\Debug\CapaDatos_RRHH.pdb
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\CapaDatos_RRHH\obj\Debug\CapaDatos_RRHH.csprojAssemblyReference.cache
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\CapaDatos_RRHH\obj\Debug\CapaDatos_RRHH.csproj.CoreCompileInputs.cache
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\CapaDatos_RRHH\obj\Debug\CapaDatos_RRHH.dll
+C:\Users\prueb\Desktop\Analisis De Sistemas II\RRHH\RRHH DE PRODUCCION\Modulo-RHHH-master\Modulo RRHH\Recursos Humanos\CapaDatos_RRHH\obj\Debug\CapaDatos_RRHH.pdb
